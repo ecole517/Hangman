@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6308#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #4 of 13. Please, output a single number as an answer
+  time: Fri, 14 Jan 2022 22:32:40 UTC
+record: -1

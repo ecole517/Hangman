@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def check_email(string):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9561#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #8 of 8. Wrong answer
+  time: Wed, 12 Jan 2022 22:29:29 UTC
+record: -1
